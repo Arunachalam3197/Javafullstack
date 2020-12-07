@@ -1,0 +1,9 @@
+package fullstack.java.fullstackdeveloper;
+
+public class Intro 
+{
+	public static void main(String[] args) 
+	{
+	System.out.println("Welcome to Fullstack session");
+	}
+}
